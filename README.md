@@ -26,3 +26,8 @@ Este projeto foi proposto pela Digital Innovation One
 
 ## Objetivos
 - Explorar IAs Generativas: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo!
+
+## Exemplos e Insigths
+- E-BOOK (https://github.com/digitalinnovationone/lab-natty-or-not/blob/main/exemplos/E-BOOK.md)
+- Podcast (https://github.com/digitalinnovationone/lab-natty-or-not/blob/main/exemplos/PODCAST.md)
+- Vídeo (Avatar Virtual) (https://github.com/digitalinnovationone/lab-natty-or-not/blob/main/exemplos/VIDEO.md)
