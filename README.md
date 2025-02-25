@@ -1,0 +1,1 @@
+# Projeto-DIO-Fundamentos-IA-Natural-Fake
